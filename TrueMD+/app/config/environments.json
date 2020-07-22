@@ -1,0 +1,8 @@
+{
+  "staging": {
+    "BASE_URL": "https://zeoauto.com"
+  },
+  "production": {
+    "BASE_URL": "https://zeoauto.com"
+  }
+}
